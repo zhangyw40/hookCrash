@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name = 'hookCrash'
-s.version = '1.0.0'
+s.version = '1.0'
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.summary = '拦截崩溃信息'
 s.homepage = 'https://github.com/zzuzhs/hookCrash'
