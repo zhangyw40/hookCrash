@@ -1,0 +1,13 @@
+//
+//  NSMutableDictionary+SafeCrash.h
+//  hookCrash
+//
+//  Created by zhs on 2017/8/7.
+//  Copyright © 2017年 zhs. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface NSMutableDictionary (SafeCrash)
+
+@end
